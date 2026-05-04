@@ -1,0 +1,9 @@
+- [x] Bağımlılıkları yükle (opencv-python, numpy, pandas, scikit-learn, torch, torchvision)
+- [x] SOLID altyapısını oluştur (agents.py, repository.py)
+- [x] DetectionAgent Uygula (Kontur tabanlı kırpma eklendi)
+- [x] EmbeddingAgent Uygula (ResNet50)
+- [x] MatcherAgent Uygula (scikit-learn NearestNeighbors, Cosine Similarity)
+- [x] SimpleTurtleRepository Uygula
+- [x] Ana Boru Hattını Oluştur (main.py)
+- [/] Doğruluğu doğrula (Hedef: >%60, Mevcut testler devam ediyor)
+- [x] Gelişim Raporunu Güncelle (report.md)

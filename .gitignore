@@ -1,0 +1,23 @@
+# Büyük Veri Setleri (GitHub'a yüklenmemeli)
+turtles-data/
+data/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Büyük Veritabanı Dosyaları
+*.pkl
+*.pickle
+
+# Python Sistem Dosyaları
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# IDE Ayarları
+.vscode/
+.idea/
